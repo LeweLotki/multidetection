@@ -1,7 +1,7 @@
 import cv2 
 import numpy as np 
 import random
-from mypackages import fun
+from mypackages2 import fun
 
 points = []
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
